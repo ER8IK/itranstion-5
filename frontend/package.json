@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.1",
     "axios": "^1.6.5",
     "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.3",
+    "react": "^18.2.0",
     "react-bootstrap": "^2.9.2",
-    "bootstrap-icons": "^1.11.3"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
   },
   "devDependencies": {
+    "@types/node": "^25.2.0",
     "@types/react": "^18.2.47",
     "@types/react-dom": "^18.2.18",
     "@vitejs/plugin-react": "^4.2.1",
